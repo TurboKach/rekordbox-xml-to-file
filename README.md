@@ -16,8 +16,8 @@ This Python script parses a Rekordbox XML export file, locates each track by `Tr
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/rekordbox-playlist-export.git
-   cd rekordbox-playlist-export
+   git clone https://github.com/TurboKach/rekordbox-xml-file-export.git
+   cd rekordbox-xml-file-expor
    ```
 
 2. **Ensure Python 3 is Installed**:
@@ -29,7 +29,7 @@ This Python script parses a Rekordbox XML export file, locates each track by `Tr
 3. **Run the Script**:
    Execute the script with:
    ```bash
-   python3 rekordbox_playlist_export.py
+   python3 main.py
    ```
 
 ## Usage
@@ -42,7 +42,7 @@ The script will prompt for:
 
 1. **Run the Script**:
    ```bash
-   python3 rekordbox_playlist_export.py
+   python3 main.py
    ```
 
 2. **Input Paths**:

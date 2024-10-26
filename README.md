@@ -1,6 +1,3 @@
-Here's a `README.md` file for publishing this script to GitHub:
-
-```markdown
 # Rekordbox Playlist Export Script
 
 This Python script parses a Rekordbox XML export file, locates each track by `TrackID`, and copies the tracks into subfolders organized by playlist. It’s particularly useful for DJs and music enthusiasts who want to arrange tracks on disk by playlist structure from Rekordbox.

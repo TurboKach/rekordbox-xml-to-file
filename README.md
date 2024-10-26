@@ -90,12 +90,3 @@ The output directory will look like:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-### Instructions for Adding to GitHub
-1. Create a new repository on GitHub.
-2. Copy and paste this `README.md` into your repository.
-3. Add the script and commit the files.
-4. Push the repository to GitHub with `git push origin main`.
-
-This `README.md` should help users understand the purpose, setup, and usage of your script. Let me know if you’d like any specific adjustments!

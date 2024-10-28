@@ -16,8 +16,8 @@ This Python script parses a Rekordbox XML export file, locates each track by `Tr
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/TurboKach/rekordbox-playlist-xml-file-export.git
-   cd rekordbox-playlist-xml-file-export
+   git clone https://github.com/TurboKach/rekordbox-xml-to-file.git
+   cd rekordbox-xml-to-file
    ```
 
 2. **Ensure Python 3 is Installed**:
@@ -47,8 +47,8 @@ The script will prompt for:
 
 2. **Input Paths**:
    ```
-   Enter the full path to your Rekordbox XML file: /Users/yourusername/Documents/rekordbox.xml
-   Enter the full path to the output directory: /Users/yourusername/Music/RekordboxPlaylists
+   Enter the full path to your Rekordbox XML file: /Users/{**yourusername**}/Documents/rekordbox.xml
+   Enter the full path to the output directory: /Users/{**yourusername**}/Music/RekordboxPlaylists
    ```
 
    The script will create a folder for each playlist within the specified output directory and copy the relevant tracks into each folder.
